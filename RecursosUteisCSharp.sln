@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Dele
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalFunctions", "LocalFunctions\LocalFunctions.csproj", "{D999C8C8-7FD6-4B5B-8B88-9C4B7A632D29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitOnlyProperties", "InitOnlyProperties\InitOnlyProperties.csproj", "{F9969C04-6ACF-4A0D-8A54-AF1F1649DD77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InitOnlyProperties", "InitOnlyProperties\InitOnlyProperties.csproj", "{F9969C04-6ACF-4A0D-8A54-AF1F1649DD77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Records", "Records\Records.csproj", "{8E82E24B-57E3-4BCB-9231-DA41AB3757F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Records", "Records\Records.csproj", "{8E82E24B-57E3-4BCB-9231-DA41AB3757F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatching", "PatternMatching\PatternMatching.csproj", "{08CD1F74-7BF9-43A1-848E-7C249409E7B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternMatching", "PatternMatching\PatternMatching.csproj", "{08CD1F74-7BF9-43A1-848E-7C249409E7B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchExpressions", "SwitchExpressions\SwitchExpressions.csproj", "{913132A0-4476-45AE-AE8E-D4CB9F10EC5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchExpressions", "SwitchExpressions\SwitchExpressions.csproj", "{913132A0-4476-45AE-AE8E-D4CB9F10EC5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates2", "Delegates2\Delegates2.csproj", "{EAFEFDB3-C490-40F3-8626-23A44447240B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{913132A0-4476-45AE-AE8E-D4CB9F10EC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{913132A0-4476-45AE-AE8E-D4CB9F10EC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{913132A0-4476-45AE-AE8E-D4CB9F10EC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFEFDB3-C490-40F3-8626-23A44447240B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFEFDB3-C490-40F3-8626-23A44447240B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFEFDB3-C490-40F3-8626-23A44447240B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFEFDB3-C490-40F3-8626-23A44447240B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
