@@ -1,0 +1,5 @@
+﻿enum FonteDados
+{
+    BancoDeDados,
+    APIExterna
+}
